@@ -1,0 +1,1 @@
+# classic-image-processing-assignments
